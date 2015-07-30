@@ -1,0 +1,12 @@
+# Site settings
+title: GVRV
+email: gaurav@dadhania.in
+description: > # this means to ignore newlines until "baseurl:"
+  Gaurav Dadhania lives here. Sometimes.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://gaurav.io" # the base hostname & protocol for your site
+twitter_username: GVRV
+github_username:  GVRV
+
+# Build settings
+markdown: kramdown
